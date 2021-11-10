@@ -1,0 +1,115 @@
+body{
+    background-color: #424848;
+    margin: auto;
+}
+.list{
+    background-color: white;
+    width: 1000px;
+    height: 1400px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.square{
+    background-color: #2C2C2C;
+    width: 1000px;
+    height: 200px;
+}
+.face{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.title{
+    color: white;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 60px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.title2{
+    color: white;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+.info{
+    display: none;
+    grid-template-columns: repeat(2, 1fr);
+    position:absolute;
+    top:300px;
+}
+
+.phone{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 600px;
+}
+.number{
+    color: white;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 650px;
+    font-size: 20px;
+}
+.mail{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 600px;
+}
+.email{
+    color: white;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 650px;
+    font-size: 20px;
+}
+.shape{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.ProfileText{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 160px;
+    font-size: 50px;
+    color: #4B76C4;
+}
+.line2{
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 320px;
+}
+.profiletext{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 100px;
+}
+.ms{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 100px;
+}
+.TNL{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 310px;
+}
+.we{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 700px;
+}
+.ei{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 800px;
+}
+
+
+
+
